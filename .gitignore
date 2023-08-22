@@ -1,5 +1,7 @@
-.csv
-.npz
-.mp4
-.pdf
+*.csv
+*.npz
+*.mp4
+*.pdf
 project_2/
+mc_env/
+.ipynb_checkpoints/
